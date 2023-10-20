@@ -12,7 +12,7 @@
 // ==/UserScript==
 
 
-// Everything is loaded from @require in order to update your hacked client easier! 🎉
+// Everything is loaded from require in order to update your hacked client easier! 🎉
 // Author: MannyCodes 👨🏻‍💻
 // Join the discord for hacks for other io games! -> discord.gg/zeroday
 // Disclaimer: This aimbot is publicised which means the features you see were rushed & the chances of this client patched is high. If you'd like me to create you your own hacked client message me on discord MannyCodes.
